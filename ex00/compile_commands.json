@@ -1,0 +1,34 @@
+[
+ {
+  "directory": "/Users/nschat/Projects/cpp-modules/cpp-module-02/ex00",
+  "arguments": [
+   "c++",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=c++98",
+   "-pedantic",
+   "-c",
+   "-o",
+   "main.o",
+   "main.cpp"
+  ],
+  "file": "main.cpp"
+ },
+ {
+  "directory": "/Users/nschat/Projects/cpp-modules/cpp-module-02/ex00",
+  "arguments": [
+   "c++",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=c++98",
+   "-pedantic",
+   "-c",
+   "-o",
+   "Fixed.o",
+   "Fixed.cpp"
+  ],
+  "file": "Fixed.cpp"
+ }
+]
