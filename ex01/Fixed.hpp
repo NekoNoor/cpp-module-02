@@ -6,13 +6,14 @@
 /*   By: nschat <nschat@student.codam.nl>             +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/11/30 15:51:59 by nschat        #+#    #+#                 */
-/*   Updated: 2021/11/30 18:40:44 by nschat        ########   odam.nl         */
+/*   Updated: 2022/03/17 17:45:39 by nschat        ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FIXED_HPP
 # define FIXED_HPP
 # include <iostream>
+# include <math.h>
 
 class Fixed {
 	public:
